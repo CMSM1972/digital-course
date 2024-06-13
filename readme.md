@@ -3,3 +3,4 @@
 ## Gravando mudanças no repositório
 ## Novo Teste
 * comando git push
+* comando git pull
